@@ -1,0 +1,8 @@
+PROGRAMA PROG_1_A_10;
+VAR N : INTEIRO;
+INICIO
+	REPITA;
+		N <- N + 1;
+		ESCREVA (N);
+	ATE (N = 10);
+FIM.
